@@ -120,4 +120,8 @@ content-type: application/json
   "body": "This is a comment for a note created with post"
 }
 
+###
+GET http://localhost:8080/v3/api-docs
 
+###
+GET http://localhost:8080/swagger-ui/index.html
